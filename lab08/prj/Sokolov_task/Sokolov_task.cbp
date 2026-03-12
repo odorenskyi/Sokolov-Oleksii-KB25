@@ -13,7 +13,12 @@
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-g" />
+					<Add directory="../Modules_Sokolov" />
 				</Compiler>
+				<Linker>
+					<Add library="../Modules_Sokolov/bin/Debug/libModules_Sokolov.a" />
+					<Add directory="../Modules_Sokolov" />
+				</Linker>
 			</Target>
 			<Target title="Release">
 				<Option output="bin/Release/Sokolov_task" prefix_auto="1" extension_auto="1" />
@@ -32,6 +37,7 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Modules_Sokolov.h" />
 		<Unit filename="main.cpp" />
 		<Extensions />
 	</Project>
