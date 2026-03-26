@@ -49,9 +49,9 @@ int main() {
     TornadoInfo t4 = getTornadoData(-10);
     cout << "Отриманий результат: " << t4.category << " (" << t4.frequency << ")" << endl;
     if (strcmp(t4.category, "--") == 0) {
-        cout << "Статус: passed" << endl << endl;
-    } else {
         cout << "Статус: failed" << endl << endl;
+    } else {
+        cout << "Статус: passed" << endl << endl;
     }
 
 
