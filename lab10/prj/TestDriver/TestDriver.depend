@@ -1,9 +1,9 @@
 # depslib dependency file v1.0
-1775320855 source:c:\users\ocoko\onedrive\׀אבמקטי סעמכ\university\ֱלען ס++\sokolov-oleksii-kb25\lab10\prj\testdriver\main.cpp
+1775322572 source:c:\users\ocoko\onedrive\׀אבמקטי סעמכ\university\ֱלען ס++\sokolov-oleksii-kb25\lab10\prj\testdriver\main.cpp
 	<iostream>
 	<fstream>
 	<string>
-	<vector>
+	<windows.h>
 	"Modules_Sokolov.h"
 
 1775321730 c:\users\ocoko\onedrive\׀אבמקטי סעמכ\university\ֱלען ס++\sokolov-oleksii-kb25\lab10\prj\testdriver\modules_sokolov.h

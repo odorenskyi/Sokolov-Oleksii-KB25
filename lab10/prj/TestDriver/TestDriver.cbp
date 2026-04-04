@@ -35,6 +35,9 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Linker>
+			<Add library="../../../lab08/prj/Modules_Sokolov/bin/Debug/libModules_Sokolov.a" />
+		</Linker>
 		<Unit filename="main.cpp" />
 		<Extensions />
 	</Project>
