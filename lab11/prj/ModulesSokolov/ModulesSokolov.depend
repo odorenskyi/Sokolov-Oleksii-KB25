@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1777754661 source:c:\users\ocoko\onedrive\׀אבמקטי סעמכ\university\ֱלען ס++\sokolov-oleksii-kb25\lab11\prj\modulessokolov\main.cpp
+	<iostream>
+	<windows.h>
+	"struct_type_project_1.h"
+	"module_Sokolov.h"
+
+1777753705 c:\users\ocoko\onedrive\׀אבמקטי סעמכ\university\ֱלען ס++\sokolov-oleksii-kb25\lab11\prj\modulessokolov\struct_type_project_1.h
+	<iostream>
+	<string>
+
+1777754453 c:\users\ocoko\onedrive\׀אבמקטי סעמכ\university\ֱלען ס++\sokolov-oleksii-kb25\lab11\prj\modulessokolov\module_sokolov.h
+	<iostream>
+	<fstream>
+	<string>
+	"struct_type_project_1.h"
+
