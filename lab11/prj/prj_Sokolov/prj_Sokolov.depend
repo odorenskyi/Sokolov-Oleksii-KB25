@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1777830203 source:c:\users\ocoko\onedrive\׀אבמקטי סעמכ\university\ֱלען ס\sokolov-oleksii-kb25\lab11\prj\prj_sokolov\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	"struct_type_project_1.h"
+	"module_Sokolov.h"
+	"ModuleKasian.h"
+	"ModulesKarabash.h"
+
+1777831108 c:\users\ocoko\onedrive\׀אבמקטי סעמכ\university\ֱלען ס\sokolov-oleksii-kb25\lab11\prj\prj_sokolov\struct_type_project_1.h
+	<iostream>
+	<string>
+
+1777830730 c:\users\ocoko\onedrive\׀אבמקטי סעמכ\university\ֱלען ס\sokolov-oleksii-kb25\lab11\prj\prj_sokolov\module_sokolov.h
+	<iostream>
+	<fstream>
+	<string>
+	"struct_type_project_1.h"
+
+1777829959 c:\users\ocoko\onedrive\׀אבמקטי סעמכ\university\ֱלען ס\sokolov-oleksii-kb25\lab11\prj\prj_sokolov\modulekasian.h
+	"struct_type_project_1.h"
+	<string>
+
+1777829978 c:\users\ocoko\onedrive\׀אבמקטי סעמכ\university\ֱלען ס\sokolov-oleksii-kb25\lab11\prj\prj_sokolov\moduleskarabash.h
+	"struct_type_project_1.h"
+	<string>
+

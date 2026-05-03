@@ -1,9 +1,9 @@
 #ifndef STRUCT_TYPE_PROJECT_1_H_INCLUDED
 #define STRUCT_TYPE_PROJECT_1_H_INCLUDED
 #include <iostream>
-#include string
+#include <string>
 
-using namespace std:
+using namespace std;
 
 struct Reestr
     {
